@@ -5,14 +5,14 @@ import CarouselSection from "./components/CarouselSection";
 import Footer from "./components/Footer";
 
 // Images
-import collegeImg from "./assets/barclays.jpeg";
-import jpmcImg from "./assets/jpmc.jpeg";
-import freelance1 from "./assets/freelance1.png";
-import freelance2 from "./assets/freelance2.png";
-import freelance3 from "./assets/freelance3.png";
-import freelance4 from "./assets/freelance4.png";
-import freelance5 from "./assets/freelance5.png";
-import nocode from "./assets/nocode.png";
+import collegeImg from "../src/assets/barclays.jpeg";
+import jpmcImg from "../src/assets/jpmc.jpeg";
+import freelance1 from "../src/assets/freelance1.png";
+import freelance2 from "../src/assets/freelance2.png";
+import freelance3 from "../src/assets/freelance3.png";
+import freelance4 from "../src/assets/freelance4.png";
+import freelance5 from "../src/assets/freelance5.png";
+import nocode from "../src/assets/nocode.png";
 
 const App = () => {
   return (
